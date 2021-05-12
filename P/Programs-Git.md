@@ -40,3 +40,14 @@ Switch from HTTPS to SSH.
 ```
 $ git remote add origin git@github.com:username/project.git
 ```
+
+## ...
+
+```
+$ git push <remote> <branch>
+```
+
+Source
+
+* How To Push Git Branch To Remote
+  * https://devconnected.com/how-to-push-git-branch-to-remote/
