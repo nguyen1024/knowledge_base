@@ -32,3 +32,11 @@ git diff --name-only --cached
 
 * Git list of staged files
   * https://stackoverflow.com/questions/33610682/git-list-of-staged-files
+
+## ...
+
+Switch from HTTPS to SSH.
+
+```
+$ git remote add origin git@github.com:username/project.git
+```
