@@ -41,6 +41,19 @@ Switch from HTTPS to SSH.
 $ git remote add origin git@github.com:username/project.git
 ```
 
+Adjust Git/HTTPS buffer.
+
+```
+git config http.postBuffer 524288000
+```
+
+A high-latency network?
+
+Source
+
+* Git, fatal: The remote end hung up unexpectedly
+  * https://stackoverflow.com/questions/15240815/git-fatal-the-remote-end-hung-up-unexpectedly
+
 ## ...
 
 > If you get error 413, then the issue doesn't lie with git but with your web server. It's your web server that is blocking big upload files.
