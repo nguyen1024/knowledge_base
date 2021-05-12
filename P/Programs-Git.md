@@ -52,6 +52,15 @@ Source
 * Github Push Error: RPC failed; result=22, HTTP code = 413
   * https://stackoverflow.com/questions/7489813/github-push-error-rpc-failed-result-22-http-code-413
 
+## ...
+
+> This turned out to be no problem at all. I simply had to wait until the upload was complete. I had added several large files and there is not a progress indicator. Maybe someone else will find this helpful.
+
+Source
+
+* git push hangs after Total line
+  * https://stackoverflow.com/questions/15843937/git-push-hangs-after-total-line
+
 ```
 $ git push <remote> <branch>
 ```
