@@ -41,6 +41,8 @@ Switch from HTTPS to SSH.
 $ git remote add origin git@github.com:username/project.git
 ```
 
+## ...
+
 Adjust Git/HTTPS buffer.
 
 ```
