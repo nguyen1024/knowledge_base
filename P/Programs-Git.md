@@ -43,6 +43,15 @@ $ git remote add origin git@github.com:username/project.git
 
 ## ...
 
+> If you get error 413, then the issue doesn't lie with git but with your web server. It's your web server that is blocking big upload files.
+
+Modify server or switch to SSH.
+
+Source
+
+* Github Push Error: RPC failed; result=22, HTTP code = 413
+  * https://stackoverflow.com/questions/7489813/github-push-error-rpc-failed-result-22-http-code-413
+
 ```
 $ git push <remote> <branch>
 ```
