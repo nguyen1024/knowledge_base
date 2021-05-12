@@ -17,4 +17,13 @@ Source
 Source
 
 * Windows 10 connects to these websites after a clean install
-  * https://www.thewindowsclub.com/windows-10-connects-to-these-websites-after-a-clean-install
+  * https://www.thewindowsclub.com/windows-10-connects-to-these-websites-after-a-clean-install
+
+## Extract WiFi Password
+
+Right Click > Status > Wireless Properties Button > Security Tab > Network security key Field
+
+Source
+
+* How to View Saved Wi-Fi Passwords
+  * https://www.pcmag.com/how-to/how-to-view-saved-wi-fi-passwords#:~:text=Right%2Dclick%20on%20your%20computer's,password%20appear%20in%20plain%20text.
