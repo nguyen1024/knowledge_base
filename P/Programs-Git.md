@@ -74,6 +74,19 @@ Source
 * git push hangs after Total line
   * https://stackoverflow.com/questions/15843937/git-push-hangs-after-total-line
 
+## ...
+
+```
+git config --global http.postBuffer 524288000
+```
+
+Source
+
+* Git hangs while writing objects
+  * https://stackoverflow.com/questions/6887228/git-hangs-while-writing-objects
+
+## ...
+
 ```
 $ git push <remote> <branch>
 ```
