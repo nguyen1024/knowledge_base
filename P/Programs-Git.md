@@ -97,3 +97,22 @@ Source
 
 * How To Push Git Branch To Remote
   * https://devconnected.com/how-to-push-git-branch-to-remote/
+
+## How to Delete a Commit
+
+Delete the most recent commit, keeping the work you've done:
+
+```
+git reset --soft HEAD~1
+```
+
+Delete the most recent commit, destroying the work you've done:
+
+```
+git reset --hard HEAD~1
+```
+
+Source
+
+* How do I delete unpushed git commits?
+  * https://stackoverflow.com/questions/3197413/how-do-i-delete-unpushed-git-commits
