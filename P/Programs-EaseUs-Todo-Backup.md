@@ -9,3 +9,14 @@ Source
 
 * Restore System from Bootable CD/Pre-OS Under Windows
   * https://www.easeus.com/todo-backup-guide/restore-system.html
+
+## How to Recover Files and Folders Instead of Doing a Restore
+
+* Open the backup folder in Windows Explorer.
+
+Source
+
+* Restoring a File from an EaseUS Todo Image Backup
+  * https://askleo.com/restoring-file-easeus-todo-image-backup/
+* Windows recovery & backup software to recover your files or folders
+  * https://www.easeus.com/backup-utility/file-recovery.html
