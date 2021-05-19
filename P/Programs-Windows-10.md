@@ -27,3 +27,12 @@ Source
 
 * How to View Saved Wi-Fi Passwords
   * https://www.pcmag.com/how-to/how-to-view-saved-wi-fi-passwords#:~:text=Right%2Dclick%20on%20your%20computer's,password%20appear%20in%20plain%20text.
+
+## How to Fix Windows 10 Sign-in Options Not Loading
+
+Run "SFC /SCANNOW" in a command prompt.
+
+Source
+
+* Windows 10 Sign-in Options Not Showing/Loading/Working
+  * https://www.passmoz.com/windows-10-sign-in-options-not-loading.html
