@@ -2,7 +2,7 @@
 
 ## PAYG, Payment Summary, Group Certificate, Employment Income Statement
 
-* Employment Income State is the new name for Payment Summaries.
+* Employment Income Statement is the new name for Payment Summaries.
 * Go to ATO myGov.
 
 Source
