@@ -36,3 +36,12 @@ Source
 
 * Windows 10 Sign-in Options Not Showing/Loading/Working
   * https://www.passmoz.com/windows-10-sign-in-options-not-loading.html
+
+## How to Change Passwords
+
+Settings > Sign-in Options >
+
+Source
+
+* How to Change Your Password in Windows 10
+  * https://www.laptopmag.com/au/articles/change-password-windows-10
