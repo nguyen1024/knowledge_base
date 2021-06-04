@@ -28,3 +28,13 @@ Source
 
 * How can you find out which process is listening on a TCP or UDP port on Windows?
   * https://stackoverflow.com/questions/48198/how-can-you-find-out-which-process-is-listening-on-a-tcp-or-udp-port-on-windows
+
+## ...
+
+* 2.4 GHz goes further.
+* 5 GHz goes faster.
+
+Source
+
+* What is the difference between 2.4 GHz and 5 GHz wireless frequencies?
+  * https://kb.netgear.com/29396/What-is-the-difference-between-2-4-GHz-and-5-GHz-wireless-frequencies
