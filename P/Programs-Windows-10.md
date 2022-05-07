@@ -48,6 +48,8 @@ Source
 
 ## How to Prevent F1 Opening Microsoft Edge Web Browser
 
+Off
+
 ```
 C:\WINDOWS\system32>taskkill /f /im HelpPane.exe
 SUCCESS: The process "HelpPane.exe" with PID 13828 has been terminated.
@@ -61,12 +63,20 @@ processed file: C:\WINDOWS\HelpPane.exe
 Successfully processed 1 files; Failed processing 0 files
 ```
 
+On
+
+```
 icacls %WinDir%\HelpPane.exe /remove:d Everyone
 icacls %WinDir%\HelpPane.exe /setowner "NT Service\TrustedInstaller"
+```
+
 If the 2nd command fails to execute and throws the error:
 
+```
 C:\WINDOWS\HelpPane.exe: Access is denied.
 Successfully processed 0 files; Failed processing 1 files
+```
+
 Then, use the Permissions GUI to change ownership to NT Service\TrustedInstaller.
 
 How to Stop F1 Key from Opening Help (Bing) in Windows 10
