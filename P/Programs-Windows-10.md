@@ -80,4 +80,4 @@ Successfully processed 0 files; Failed processing 1 files
 Then, use the Permissions GUI to change ownership to NT Service\TrustedInstaller.
 
 How to Stop F1 Key from Opening Help (Bing) in Windows 10
-https://www.winhelponline.com/blog/disable-f1-key-help-windows-10/
+- https://www.winhelponline.com/blog/disable-f1-key-help-windows-10/
