@@ -27,5 +27,12 @@ Exit Unity Mode
 
 Reference
 
-  - Use Unity Mode
-    - https://docs.vmware.com/en/VMware-Workstation-Player-for-Windows/16.0/com.vmware.player.win.using.doc/GUID-8C477788-7700-4030-8C4A-039C02AABB74.html
+- Use Unity Mode
+  - https://docs.vmware.com/en/VMware-Workstation-Player-for-Windows/16.0/com.vmware.player.win.using.doc/GUID-8C477788-7700-4030-8C4A-039C02AABB74.html
+
+# ?
+
+Reference
+
+- Errors when booting Ubuntu: SMBus Host Controller not enabled! - Failed to connect to lvmetad - Falling back to internal scanning
+  - https://communities.vmware.com/t5/VMware-Fusion-Discussions/Errors-when-booting-Ubuntu-SMBus-Host-Controller-not-enabled/td-p/450289
