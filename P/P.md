@@ -1,2 +1,2 @@
 - [Programs - Outlook](Programs-Outlook)
-- [Programs - VMware Workstation](Programs-VMware-Workstation)
+- [Programs - VMware Workstation](Programs-VMware-Workstation.md)
