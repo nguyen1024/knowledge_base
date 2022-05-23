@@ -12,3 +12,13 @@ Source
   * https://ask.libreoffice.org/en/question/154331/libre-calc-if-and-statements-truefalse/
 * How to display blank cell instead of #value
   * https://ask.libreoffice.org/en/question/45426/how-to-display-blank-cell-instead-of-value/
+
+## How to Move a Row or Column
+
+* Select the row or column.
+* Hold Alt, click and drag.
+
+Source
+
+* How to move columns/rows in Calc?
+  * https://ask.libreoffice.org/t/how-to-move-columns-rows-in-calc/8234
