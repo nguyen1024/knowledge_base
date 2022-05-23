@@ -1,3 +1,5 @@
+# Keyboard Shortcuts
+
 Move Focus Out of Virtual Machine
 
 - Alt + Control
@@ -15,3 +17,10 @@ Exit Fullscreen
 
 - Move focus out of virtual machine.
 - Alt + Control + Enter
+
+# Unity
+
+Exit Unity Mode
+
+- Click on the VMware Workstation Task Bar icon.
+- Click on the "Exit Unity" button.
