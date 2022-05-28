@@ -1,5 +1,10 @@
 # Programs - Windows 10
 
+## How to Adjust Images for the Lock Screen
+
+- Use Irfan to resise the image to be within 1920 x 1080.
+- Use Irfan to increase the canvas to 1920 x 1080.
+
 ## How to Turn Off the Clock
 
 Taskbar settings > Turn system icons on or off > Clock
