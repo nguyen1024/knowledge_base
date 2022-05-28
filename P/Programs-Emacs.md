@@ -10,3 +10,8 @@ Source
 
 * How to disable auto-indentation of new lines?
   * https://emacs.stackexchange.com/questions/5939/how-to-disable-auto-indentation-of-new-lines
+
+## ...
+
+joostkremers / writeroom-mode
+https://github.com/joostkremers/writeroom-mode
