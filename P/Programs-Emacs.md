@@ -13,5 +13,5 @@ Source
 
 ## ...
 
-joostkremers / writeroom-mode
-https://github.com/joostkremers/writeroom-mode
+- joostkremers / writeroom-mode
+  - https://github.com/joostkremers/writeroom-mode
