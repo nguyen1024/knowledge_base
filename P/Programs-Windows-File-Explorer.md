@@ -20,7 +20,7 @@ Source
 - TagSpaces
 - Total Commander
 - Q-Dir
-- Doyble Commander
+- Double Commander
 
 Source
 
