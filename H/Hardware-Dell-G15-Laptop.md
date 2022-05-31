@@ -2,8 +2,8 @@
 
 ## BIOS
 
-F2 or F12
+- F2 or F12
 
 ## Keyboard Light
 
-- Go into BIOS
+- Go into BIOS.
