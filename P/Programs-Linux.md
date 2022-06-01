@@ -2,7 +2,9 @@
 
 ## Symbolic Link
 
+```
 ln -s <path to the file/folder to be linked> <the path of the link to be created>
+```
 
 Reference
 
@@ -46,3 +48,18 @@ SomeCommand 2>&1 | tee SomeFile.txt
 Source
 - How do I save terminal output to a file?
   - https://askubuntu.com/questions/420981/how-do-i-save-terminal-output-to-a-file
+
+## Diff Tools
+  
+- Kompare
+- DiffMerge
+- Meld
+- Diffuse
+- XXdiff
+- KDiff3
+- TkDiff
+  
+Source
+
+- 9 Best File Comparison and Difference (Diff) Tools for Linux
+  - https://www.tecmint.com/best-linux-file-diff-tools-comparison/
