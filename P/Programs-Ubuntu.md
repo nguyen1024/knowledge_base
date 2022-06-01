@@ -19,3 +19,8 @@ Source
 
 - Screenshots and screencasts
   - https://help.ubuntu.com/stable/ubuntu-help/screen-shot-record.html 
+
+## Alt + Tab Shake
+
+- Disable animation in the window switcher?
+  - https://unix.stackexchange.com/questions/504569/disable-animation-in-the-window-switcher
