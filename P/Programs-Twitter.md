@@ -14,7 +14,7 @@ If you get a blank screen after logging in, check that you did not disallow cook
 
 ## How to Change Your Display Name
 
-- You need to set a profile picture.
+- You need to set a profile picture first!
 - To do this go to Profile > Set up profile
 - Then you can change your display name.
 - Go to Profile > Edit profile
