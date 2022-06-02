@@ -51,6 +51,18 @@ Add the following to the ".vmx" file.
 bios.forceSetupOnce = "TRUE"
 ```
 
+The folowing does not seem to work because the system goes straight to the GRUB menu.
+
+```
+bios.bootDelay = "15000"
+```
+
+The following keys do not seem to work because the system goes straight to the GRUB menu.
+
+- F2 to enter SETUP
+- F12 for Network Boot
+- ESC for Boot Menu
+
 Source
 
 - Accessing the BIOS when the POST screen clears too quickly (1004129)
