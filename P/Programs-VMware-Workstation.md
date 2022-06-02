@@ -39,9 +39,9 @@ Reference
 - Errors when booting Ubuntu: SMBus Host Controller not enabled! - Failed to connect to lvmetad - Falling back to internal scanning
   - https://communities.vmware.com/t5/VMware-Fusion-Discussions/Errors-when-booting-Ubuntu-SMBus-Host-Controller-not-enabled/td-p/450289
   
-## Convert Version
+## How to Convert Version
 
-## Screenshot
+## How to.. Screenshot
 
 ## How to Boot into BIOS
 
