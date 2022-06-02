@@ -22,3 +22,7 @@ Source
 
 * How to move columns/rows in Calc?
   * https://ask.libreoffice.org/t/how-to-move-columns-rows-in-calc/8234
+
+## How to Insert Time
+
+Control + Shift + ;
