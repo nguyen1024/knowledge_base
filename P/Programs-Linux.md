@@ -77,3 +77,18 @@ Source
 
 - Chapter 15. Swap Space Red Hat Enterprise Linux 7 _ Red Hat Customer Portal
   - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/storage_administration_guide/ch-swapspace
+
+## How to Move Extended Partitions
+
+> Extended partitions are like containers for logical volumes. But unfortunately, you can't just move the whole container.
+>
+> Maybe it helps if you imagine partitions as cardboard boxes. A primary partition is a standard box and logical volumes are like little boxes that have to stay inside an extended partition. Now the interesting thing is how the extended partition would look like as box: It would be a box without a bottom!
+> 
+> It covers the small logical volumes, so to the outside (e.g. to the MBR partition table which only allows 4 partitions per disk) just looks like one big box, but if you would try to move it and lift it off the floor, all those little boxes inside (logical volumes) would still sit on the same place on the ground. You understand what I want to illustrate to you? By moving an extended partition (which does not work for that reason), you don't move the contained logical volumes.
+> 
+> So the solution to move an extended partition is to first enlarge the extended partition by moving one boundary to cover all the new space it should be moved to, then move all contained volumes to their respective new position, then shrink it again by moving the other boundary so that there's no unassigned space left inside the extended partition.
+
+Source
+
+- GParted can't move extended partition to the right?
+  - https://askubuntu.com/questions/659797/gparted-cant-move-extended-partition-to-the-right
