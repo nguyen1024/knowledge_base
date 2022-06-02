@@ -86,3 +86,13 @@ Then, use the Permissions GUI to change ownership to NT Service\TrustedInstaller
 
 How to Stop F1 Key from Opening Help (Bing) in Windows 10
 - https://www.winhelponline.com/blog/disable-f1-key-help-windows-10/
+
+## ... Lock Screen
+
+- Settings > Lock Screen
+- Background > Slideshow > Advanced slideshow settings > When my PC is inactive, show lock screen instead of turning off the screen > Off
+
+Source
+
+- Prevent Windows 10 from Locking When Monitor Turns Off
+  - https://superuser.com/questions/1214447/prevent-windows-10-from-locking-when-monitor-turns-off
