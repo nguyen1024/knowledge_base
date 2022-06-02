@@ -57,3 +57,5 @@ Source
   - https://kb.vmware.com/s/article/1004129
 - How to Increase the VMWare Boot Screen Delay
   - https://www.howtogeek.com/howto/16876/how-to-increase-the-vmware-boot-screen-delay/
+- vmware workstation - How can you boot from CD?
+  - https://superuser.com/questions/940427/vmware-workstation-how-can-you-boot-from-cd
