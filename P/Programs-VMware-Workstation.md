@@ -71,3 +71,10 @@ Source
   - https://www.howtogeek.com/howto/16876/how-to-increase-the-vmware-boot-screen-delay/
 - vmware workstation - How can you boot from CD?
   - https://superuser.com/questions/940427/vmware-workstation-how-can-you-boot-from-cd
+
+## ... Shared Folders...
+
+Source
+
+- Shared folders not available on Linux guests after upgrading to VMWare Workstation 15
+  - https://communities.vmware.com/t5/VMware-Workstation-Pro/Shared-folders-not-available-on-Linux-guests-after-upgrading-to/td-p/1404693
