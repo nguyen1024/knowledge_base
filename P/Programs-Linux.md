@@ -63,3 +63,17 @@ Source
 
 - 9 Best File Comparison and Difference (Diff) Tools for Linux
   - https://www.tecmint.com/best-linux-file-diff-tools-comparison/
+
+## Swap Sizes
+
+| Amount of RAM in the system	| Recommended swap space     | Recommended swap space if allowing for hibernation |
+| --------------------------- | -------------------------- | -------------------------------------------------- |
+| ⩽ 2 GB	                    | 2 times the amount of RAM  | 3 times the amount of RAM                          |
+| > 2 GB – 8 GB	              | Equal to the amount of RAM |	2 times the amount of RAM                         |
+| > 8 GB – 64 GB	            | At least 4 GB	             | 1.5 times the amount of RAM                        |
+| > 64 GB	                    | At least 4 GB	             | Hibernation not recommended                        |
+
+Source
+
+- Chapter 15. Swap Space Red Hat Enterprise Linux 7 _ Red Hat Customer Portal
+  - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/storage_administration_guide/ch-swapspace
