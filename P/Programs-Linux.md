@@ -92,3 +92,13 @@ Source
 
 - GParted can't move extended partition to the right?
   - https://askubuntu.com/questions/659797/gparted-cant-move-extended-partition-to-the-right
+
+## ...
+
+- DWM
+- QuickTile
+
+Source
+
+- Divvy Alternatives for Linux
+  - https://alternativeto.net/software/divvy/?platform=linux
