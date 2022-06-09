@@ -96,3 +96,16 @@ Source
 
 - Prevent Windows 10 from Locking When Monitor Turns Off
   - https://superuser.com/questions/1214447/prevent-windows-10-from-locking-when-monitor-turns-off
+
+## ... recent...
+
+- File Explorer > View > Options > Privacy
+- Untick "Show recently used files in Quick access".
+- Untick "Show recentyl used folders in Quick access".
+- Press "Clear".
+- Restart the computer.
+
+Source
+
+- Windows 10: How to Find and Clear the All Recent Files List
+  - https://winbuzzer.com/2020/04/29/windows-10-how-to-find-and-clear-the-all-recent-files-list-xcxwbt/
