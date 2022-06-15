@@ -109,3 +109,22 @@ Source
 
 - Windows 10: How to Find and Clear the All Recent Files List
   - https://winbuzzer.com/2020/04/29/windows-10-how-to-find-and-clear-the-all-recent-files-list-xcxwbt/
+
+## How to Turn of the Windows Timeline
+
+1. Open Settings.
+1. Click on Privacy.
+1. Click on Activity history.
+1. Clear the Store my activity history on this device option.
+1. Clear the Send my activity history to Microsoft option.
+1. Activity history settings to disable TImeline on Windows 10
+1. Activity history settings to disable TImeline on Windows 10
+1. Under “Show activities from accounts,” turn off the toggle switch for all your accounts.
+1. Jump to another settings page, and then come back to the “Activity history” page to refresh the page and make the option to delete your history available.
+1. Under “Clear activity history,” click the Clear button.
+1. Click the OK button to confirm.
+
+Source
+
+- How to disable Timeline on Windows 10
+  - https://pureinfotech.com/disable-timeline-windows-10/
