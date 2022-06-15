@@ -72,6 +72,16 @@ Source
 - vmware workstation - How can you boot from CD?
   - https://superuser.com/questions/940427/vmware-workstation-how-can-you-boot-from-cd
 
+## Mobile Phone Hotspot
+
+- Virtual machine bridged mode.
+- Or attach a USB network adapter and connect it to the virtual machine.
+
+Source
+
+- VM use phone hotspot
+  - https://communities.vmware.com/t5/VMware-Workstation-Pro/VM-use-phone-hotspot/td-p/964677
+
 ## ... Shared Folders...
 
 Source
