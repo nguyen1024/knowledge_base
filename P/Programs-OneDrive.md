@@ -1,5 +1,20 @@
 # Programs - OneDrive
 
+## ... Clear Up Space...
+
+Open Command Prompt, not PowerShell.
+
+```
+attrib -p +u * /s
+```
+
+Source
+
+- Use “attrib” to pin and unpin files and folders for OneDrive On-demand sync in Windows 10
+  - https://www.theexperienceblog.com/2017/09/26/use-attrib-to-pin-and-unpin-files-and-folders-for-onedrive-on-demand-sync-in-windows-10/
+- Is there a way to observe a file's 'availability status' via Windows command?
+  - https://stackoverflow.com/questions/58184531/is-there-a-way-to-observe-a-files-availability-status-via-windows-command
+
 ## ... Context Menu...
 
 The Reason
