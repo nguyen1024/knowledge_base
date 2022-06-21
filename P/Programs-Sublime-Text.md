@@ -1,5 +1,9 @@
 # Programs - Sublime Text
 
+## Multiple Cursors
+
+Control + Alt + Up or Down Arrow
+
 ## ...
 
 - Control + Shift + P, Sort Tabs: Menu
