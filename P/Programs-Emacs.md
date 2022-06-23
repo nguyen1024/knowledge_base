@@ -15,3 +15,12 @@ Source
 
 - joostkremers / writeroom-mode
   - https://github.com/joostkremers/writeroom-mode
+
+## How to Go to Matching Parentheses
+
+C-M-f (forward-sexp) and C-M-b (backward-sexp)
+
+Source
+
+- 5.25 How do I show which parenthesis matches the one I’m looking at?
+  - https://www.gnu.org/software/emacs/manual/html_node/efaq/Matching-parentheses.html#:~:text=If%20you're%20looking%20at,can%20see%20which%20parentheses%20match.
