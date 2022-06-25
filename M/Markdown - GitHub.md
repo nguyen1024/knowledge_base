@@ -35,3 +35,14 @@ Source
 
 - Organizing information with tables
   - https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables
+
+## How to Link to Local Files
+
+```
+[here](./README_2.md)
+```
+
+Source
+
+- How link to any local file with markdown syntax?
+  - https://stackoverflow.com/questions/32563078/how-link-to-any-local-file-with-markdown-syntax
