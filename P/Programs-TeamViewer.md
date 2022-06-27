@@ -17,3 +17,12 @@ Source
 
 - Alt-tab back to the host while using TeamViewer?
   - https://superuser.com/questions/1078295/alt-tab-back-to-the-host-while-using-teamviewer
+
+## “This screen cannot be captured at the moment. This is probably due to to fast user switching or a disconnected/minimized Remote Desktop session.”
+
+User the "Server ID" instead of the "User ID".
+
+Source
+
+- REMOTE SUPPORT VIA TEAMVIEWER WITHOUT ACTIVE WINDOWS LOGIN ENDS IN “THIS SCREEN CANNOT BE CAPTURED AT THE MOMENT THIS IS DUE TO TO FAST USER SWITCHING OR A DISCONNECTED/MINIMIZED REMOTE DESKTOP SESSION”
+  - https://pixelfriedhof.com/en/remote-support-via-teamviewer-without-active-windows-login-ends-in-this-screen-cannot-be-captured-at-the-moment-this-is-due-to-to-fast-user-switching-or-a-disconnected-minimized-remote-desktop-session/#:~:text=at%20the%20moment.-,This%20is%20due%20to%20to%20fast%20user%20switching%20or%20a,ID%20of%20the%20running%20TeamViewer.
