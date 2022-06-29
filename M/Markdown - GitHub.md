@@ -46,3 +46,14 @@ Source
 
 - How link to any local file with markdown syntax?
   - https://stackoverflow.com/questions/32563078/how-link-to-any-local-file-with-markdown-syntax
+
+## Comments
+
+```
+<!--- -->
+```
+
+Source
+
+- Comments in Markdown
+  - https://stackoverflow.com/questions/4823468/comments-in-markdown
