@@ -1,6 +1,6 @@
 # Markdown - GitHub
 
-## ...
+## Code Blocks
 
 Tilde Tilde Tilde
 
@@ -13,7 +13,7 @@ Source
 - Creating and highlighting code blocks
   - https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks
 
-## Quote
+## Quotes
 
 \>
 
@@ -57,3 +57,14 @@ Source
 
 - Comments in Markdown
   - https://stackoverflow.com/questions/4823468/comments-in-markdown
+
+## Escape Character
+
+```
+\
+```
+
+Source
+
+- Escaping Hash Characters in Markdown
+  - https://github.com/veleek/til/blob/master/markdown/escaping-hash-characters-in-markdown.md 
