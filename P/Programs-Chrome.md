@@ -1,6 +1,6 @@
 # Programs - Chrome
 
-## ...
+## Deactivate Automatic Tab Discarding
 
 > Type “chrome://flags/” in the address or URL bar
 > 
@@ -11,6 +11,12 @@
 > Click on the menu next to this option to say “Default” and select “Enabled” for the list.
 >
 > Next, relaunch your Chrome browser to activate this feature entirely.
+
+Another option is to install the extension "Disable automatic tab discarding".
+
+Disable automatic tab discarding
+
+- https://chrome.google.com/webstore/detail/disable-automatic-tab-dis/dnhngfnfolbmhgealdpolmhimnoliiok?hl=en
 
 Source
 
