@@ -20,6 +20,14 @@ Source
 
 ## “This screen cannot be captured at the moment. This is probably due to to fast user switching or a disconnected/minimized Remote Desktop session.”
 
+Enable the following setting.
+
+- Advanced
+  - Advanced settings for connections to this computer
+    - Full access control when a partner is connecting to the Windows logon screen
+
+The following did not seem to work. The "User ID" and "Server ID" were the same.
+
 - Use the "Server ID" instead of the "User ID".
 - Right click on the TeamViewer Tray Icon > About Teamviewer
 - The "Server ID" and the "User ID" can sometimes be the same.
