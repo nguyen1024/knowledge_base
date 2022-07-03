@@ -116,3 +116,9 @@ Source
 
 * How do I delete unpushed git commits?
   * https://stackoverflow.com/questions/3197413/how-do-i-delete-unpushed-git-commits
+
+## How to Check Who Changed What
+
+```
+$ git blame -L 2210,2230 cbdi_api.cpp
+```
