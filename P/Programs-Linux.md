@@ -102,3 +102,14 @@ Source
 
 - Divvy Alternatives for Linux
   - https://alternativeto.net/software/divvy/?platform=linux
+
+## How to Check Free Space From the Terminal
+
+```
+> df
+```
+
+Source
+
+- How to Check Free Disk Space on Linux [Terminal and GUI Methods]
+  - https://itsfoss.com/check-free-disk-space-linux/#:~:text=The%20simplest%20way%20to%20find,disk%20space%20on%20Linux%20systems.&text=With%20%2Dh%20option%2C%20it%20shows,format%20(MB%20and%20GB).
