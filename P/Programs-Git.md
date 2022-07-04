@@ -122,3 +122,15 @@ Source
 ```
 $ git blame -L 2210,2230 cbdi_api.cpp
 ```
+
+## How to Apply a Patch
+
+```
+$ git diff > my_custom_patch_file.patch
+$ git apply patch_file.patch 
+```
+
+Source
+
+- How to create and apply a patch with Git Diff and Git Apply commands for your Drupal website
+  -  https://www.specbee.com/blogs/how-create-and-apply-patch-git-diff-and-git-apply-commands-your-drupal-website
