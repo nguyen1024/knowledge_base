@@ -42,3 +42,12 @@ Source
 
 - Video formats you can play on the OneDrive website
   - https://support.microsoft.com/en-us/office/video-formats-you-can-play-on-the-onedrive-website-07c008b2-70e4-4ced-8a9b-f25bed77196a 
+
+## ... Startup...
+
+If OneDrive does not start automatically, check Settings > Startup.
+
+Source
+
+- OneDrive doesn't start automatically with Windows 10 Pro
+  - https://answers.microsoft.com/en-us/msoffice/forum/all/onedrive-doesnt-start-automatically-with-windows/3571a76f-f396-47b9-b35c-3ee8fd2a7b70
