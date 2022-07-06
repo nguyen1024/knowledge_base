@@ -59,3 +59,21 @@ Source
 
 - What is IPv4 Autoconfiguration and why it overwrites static IP
   - https://superuser.com/questions/1243175/what-is-ipv4-autoconfiguration-and-why-it-overwrites-static-ip
+
+## ... VPN... Gateway
+
+Source
+
+- Specifying Gateway for VPN Connection
+  - https://serverfault.com/questions/485933/specifying-gateway-for-vpn-connection
+
+## Trace Route
+
+```
+tracert [IP number]
+```
+
+Source
+
+- Running a Traceroute
+  - https://lexisnexis.custhelp.com/app/answers/answer_view/a_id/1088078/~/running-a-traceroute
