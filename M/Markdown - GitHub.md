@@ -68,3 +68,17 @@ Source
 
 - Escaping Hash Characters in Markdown
   - https://github.com/veleek/til/blob/master/markdown/escaping-hash-characters-in-markdown.md 
+
+## Formatting
+
+```
+**bold**
+*italic*
+```
+
+Source
+
+- Basic writing and formatting syntax
+  - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+- GitLab Flavored Markdown (GLFM)
+  - https://docs.gitlab.com/ee/user/markdown.html
