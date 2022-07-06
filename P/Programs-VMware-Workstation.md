@@ -84,7 +84,22 @@ Source
 
 ## ... Shared Folders...
 
+No solution... yet.
+
 Source
 
 - Shared folders not available on Linux guests after upgrading to VMWare Workstation 15
   - https://communities.vmware.com/t5/VMware-Workstation-Pro/Shared-folders-not-available-on-Linux-guests-after-upgrading-to/td-p/1404693
+
+## How to Change the Boot Order
+
+Sometimes you can't change boot order through the BIOS becuase it is says it is under supervisor control. Even when you set the supervisor password, you can't change the boot order.
+
+```
+bios.bootOrder = "cdrom,hdd"
+```
+
+Source
+
+- Changing the boot order of a virtual machine using vmx options (2011654)
+  - https://kb.vmware.com/s/article/2011654
