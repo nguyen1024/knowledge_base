@@ -50,3 +50,12 @@ Source
 
 - Why 192.168.*.* for local addresses?
   - https://networkengineering.stackexchange.com/questions/5825/why-192-168-for-local-addresses
+
+## ... Autoconfiguration IPV4
+
+When a device can't get an IP number from the DHCP server... it generates a number.
+
+Source
+
+- What is IPv4 Autoconfiguration and why it overwrites static IP
+  - https://superuser.com/questions/1243175/what-is-ipv4-autoconfiguration-and-why-it-overwrites-static-ip
