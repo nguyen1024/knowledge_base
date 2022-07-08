@@ -41,7 +41,11 @@ Reference
   
 ## How to Convert Version
 
+To do.
+
 ## How to.. Screenshot
+
+To do.
 
 ## How to Boot into BIOS
 
