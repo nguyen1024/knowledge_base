@@ -24,3 +24,18 @@ Source
 
 - Disable animation in the window switcher?
   - https://unix.stackexchange.com/questions/504569/disable-animation-in-the-window-switcher
+
+## How to Deactivate Second Alt Tab Bar
+
+Install "CompizConfig Settings Manager".
+
+```
+sudo apt install compizconfig-settings-manager
+```
+
+Unselect "Application Switcher".
+
+Source
+
+- Why do I have two Alt+Tab application switchers?
+  - https://askubuntu.com/questions/828572/why-do-i-have-two-alttab-application-switchers
