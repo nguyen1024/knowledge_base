@@ -23,7 +23,7 @@ Source
 - How to enable and disable the Google Chrome Sleeping Tab option?
   - https://krispitech.com/how-to-enable-and-disable-the-google-chrome-sleeping-tab-option/
 
-##
+## ...
 
 Settings > Privacy and security > Cookies and other site data > Sites that can never use cookies
 
