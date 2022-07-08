@@ -103,3 +103,16 @@ Source
 
 - Changing the boot order of a virtual machine using vmx options (2011654)
   - https://kb.vmware.com/s/article/2011654
+
+## How to Set the Number of Processor Cores
+
+- (CPU sockets) x (CPU cores) x (threads)
+- If you have Hyper-Threading, then you have two threads.
+- If you have twice the number of logical processors as cores, then you have Hyper-Threading.
+
+Source
+
+- Setting the Number of Cores per CPU in a Virtual Machine
+  - https://www.nakivo.com/blog/the-number-of-cores-per-cpu-in-a-virtual-machine/
+- How to Check if your CPU supports or is using Hyper-threading?
+  - https://www.thepcinsider.com/how-to-check-cpu-supports-using-hyper-threading/
