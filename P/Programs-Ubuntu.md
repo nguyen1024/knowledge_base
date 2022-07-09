@@ -39,3 +39,22 @@ Source
 
 - Why do I have two Alt+Tab application switchers?
   - https://askubuntu.com/questions/828572/why-do-i-have-two-alttab-application-switchers
+
+## Disk Space
+
+- ncdu
+- Disk Analyzer
+- GParted
+- restart
+- du, df, grep
+- deleted yet open files
+  - sudo lsof +L1 
+
+Source
+
+- No more disk space: How can I find what is taking up the space?
+  - https://askubuntu.com/questions/911865/no-more-disk-space-how-can-i-find-what-is-taking-up-the-space
+- df says disk is full, but it is not
+  - https://serverfault.com/questions/315181/df-says-disk-is-full-but-it-is-not
+- Disk space usage doesn't add up with df & du
+  - https://serverfault.com/questions/379831/disk-space-usage-doesnt-add-up-with-df-du 
