@@ -57,4 +57,6 @@ Source
 - df says disk is full, but it is not
   - https://serverfault.com/questions/315181/df-says-disk-is-full-but-it-is-not
 - Disk space usage doesn't add up with df & du
-  - https://serverfault.com/questions/379831/disk-space-usage-doesnt-add-up-with-df-du 
+  - https://serverfault.com/questions/379831/disk-space-usage-doesnt-add-up-with-df-du
+- /proc folder cleaning
+  - https://www.linux-noob.com/forums/thread-1340.html 
