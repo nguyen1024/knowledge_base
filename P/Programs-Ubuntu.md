@@ -60,3 +60,15 @@ Source
   - https://serverfault.com/questions/379831/disk-space-usage-doesnt-add-up-with-df-du
 - /proc folder cleaning
   - https://www.linux-noob.com/forums/thread-1340.html 
+
+## Stopwatch, Countdown Timer
+
+```
+sudo apt install snapd
+sudo snap install gnome-clocks
+```
+
+Source
+
+- Countdown Timer App for Ubuntu
+  - https://linuxhint.com/countdown-timer-app-ubuntu/
