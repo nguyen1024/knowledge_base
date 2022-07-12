@@ -116,11 +116,33 @@ Source
 
 ## How to Resize Partitions
 
-- GParted USB/ISO
-- Ubuntu USB/ISO
-- GParted Install (No System Files)
+- GParted from USB/ISO
+- Ubuntu from USB/ISO
+- GParted from Install (No Moving System Files)
 
 Source
 
 - 3 Ways to Resize a Linux Partition Safely
   - https://www.makeuseof.com/tag/resize-linux-partition-safely/
+
+## Environment Variables
+
+```
+TEST=foo; echo $TEST
+```
+
+Source
+
+- How do I set an environment variable on the command line and have it appear in commands?
+  - https://unix.stackexchange.com/questions/56444/how-do-i-set-an-environment-variable-on-the-command-line-and-have-it-appear-in-c
+
+## Current Date Time, Script
+
+```
+echo "$(date +"%T")"
+```
+
+Source
+
+- HowTo: Get Current Time In Shell Script
+  - https://www.cyberciti.biz/faq/how-to-read-time-in-shell-script/
