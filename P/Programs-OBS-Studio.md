@@ -20,6 +20,7 @@ Source
 
 ```
 $ sudo add-apt-repository ppa:obsproject/obs-studio
+
 [sudo] password for iba: 
  Latest stable release of OBS Studio
  More info: https://launchpad.net/~obsproject/+archive/ubuntu/obs-studio
@@ -35,6 +36,7 @@ gpg:               imported: 1  (RSA: 1)
 OK
 
 iba@ubuntu:~/git/iba/data$ sudo apt update
+
 Hit:1 http://security.ubuntu.com/ubuntu xenial-security InRelease
 Ign:2 https://download.sublimetext.com apt/stable/ InRelease
 Err:3 https://download.sublimetext.com apt/stable/ Release
@@ -51,5 +53,10 @@ E: The repository 'https://download.sublimetext.com apt/stable/ Release' does no
 N: Updating from such a repository can't be done securely, and is therefore disabled by default.
 N: See apt-secure(8) manpage for repository creation and user configuration details.
 
-iba@ubuntu:~/git/iba/data$
+iba@ubuntu:~/git/iba/data$sudo apt install obs-studio
 ```
+
+Source
+
+- Install Instructions
+  - https://obsproject.com/wiki/install-instructions
