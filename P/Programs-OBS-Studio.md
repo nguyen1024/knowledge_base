@@ -9,12 +9,14 @@ You need to tell OBS Studio to use the integrated graphics card.
 - Browse to add OBS Studio executable.
 - Click on OBS Studio from the list.
 - Click on Options.
-- Select Power saving
+- Select Power saving (or Let Windows decide for Windows 11).
 
 Source
 
 - OBS Black Screen Display Capture Solved (Still Works)
   - https://www.youtube.com/watch?v=awXP6_kDii4&ab_channel=NobleArcade
+- How to Fix OBS Black Screen Error in Windows 11
+  - https://www.youtube.com/watch?v=Z_dqLVAJw6E&t=143s&ab_channel=Tricknology
 
 ## ...
 
