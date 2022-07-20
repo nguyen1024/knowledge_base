@@ -1,5 +1,13 @@
 # Companies - FedEx
 
+## How to Add a Shipment
+
+Shipping > Ship Now
+
+## How to Schedule a Pickup
+
+Shipping > Schedule & Manage Pickups
+
 ## How to Add a Payment Method
 
 https://www.fedex.com/fedexbillingonline/pages/accountsummary/accountSummaryFBO.xhtml
