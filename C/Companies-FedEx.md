@@ -17,3 +17,7 @@ My Options > Manage Payment Preferences > Add Payment Profile > PayPal
 Another way to get there.
 
 Manage My Account > FedEx Billing Online > GO TO FEDEX BILLING ONLINE > My Options > Manage Payment Preferences > Add Payment Profile
+
+## ...
+
+Don't stick papers to package. Give the papers and the packaged to the FedEx representative.
