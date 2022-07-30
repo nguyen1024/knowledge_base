@@ -2,7 +2,7 @@
 
 ## ...
 
-- Log out.
+- Log out of Ubuntu.
 - Select i3.
 - Log in.
 
