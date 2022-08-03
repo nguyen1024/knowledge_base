@@ -16,5 +16,6 @@ Source
 
 
 Introduction to Kali - Beginner Class #1 (Strikes, Blocks & Drills)
-https://www.youtube.com/watch?v=kDNFR1xyiR8&ab_channel=GlobalMartialArtsUniversity
-5 min
+
+- https://www.youtube.com/watch?v=kDNFR1xyiR8&ab_channel=GlobalMartialArtsUniversity
+- 5 min
