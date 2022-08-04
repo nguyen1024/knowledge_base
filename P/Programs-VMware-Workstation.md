@@ -120,3 +120,7 @@ Source
   - https://www.nakivo.com/blog/the-number-of-cores-per-cpu-in-a-virtual-machine/
 - How to Check if your CPU supports or is using Hyper-threading?
   - https://www.thepcinsider.com/how-to-check-cpu-supports-using-hyper-threading/
+
+## How to Fix Fuzzy Chrome Extension Menus and Tab Previews on a Second Screen
+
+Increase memory.
