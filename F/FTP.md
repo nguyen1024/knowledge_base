@@ -21,3 +21,12 @@ Source
 
 - SFTP for Secure Data Transfer-Secure FTP over SSL
   - https://www.vandyke.com/products/securefx/sftp.html#:~:text=Both%20SFTP%20and%20FTP%20over%20TLS%20securely%20transfer%20data%E2%80%94usernames,least%20one%20for%20file%20data.
+
+## Firewall...
+
+...
+
+Source
+
+- Network Configuration
+  - https://wiki.filezilla-project.org/Network_Configuration
