@@ -17,6 +17,9 @@ Source
 
 > Both SFTP and FTP over TLS securely transfer data—usernames, passwords, and file contents. However, SFTP enables bi-directional secure data transfer using one port. FTP over TLS requires multiple ports to be opened on a firewall—one for command data (to establish an encrypted connection) and at least one for file data.
 
+- STFP seems to be more secure than FTP over TLS.
+- FTP over TLS is also known as FTPS.
+
 Source
 
 - SFTP for Secure Data Transfer-Secure FTP over SSL
@@ -30,3 +33,12 @@ Source
 
 - Network Configuration
   - https://wiki.filezilla-project.org/Network_Configuration
+
+## How to set up a STFP Server on Windows
+
+- Porta SFTP.
+
+Source
+
+- How to Create a SFTP Server on Windows | Manage and Add Users | Porta SFTP Server
+  - https://www.youtube.com/watch?v=lHdJblNlY7I&ab_channel=JackMasterCheng
