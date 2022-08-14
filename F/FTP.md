@@ -1,5 +1,24 @@
 # FTP
 
+## NAT
+
+- You cannot connect over FTP over NAT.
+- It is a design decision.
+
+Source
+
+- Known Issues and Limitations with Active and Passive FTP when using VMware SD-WAN (2913337)
+  - https://kb.vmware.com/s/article/2913337
+
+## Firewall...
+
+...
+
+Source
+
+- Network Configuration
+  - https://wiki.filezilla-project.org/Network_Configuration
+
 ## ...
 
 > Explicit security requires that the FTP client issues a specific command to the FTP server after establishing a connection to establish the SSL link. In explicit TLS the FTP client needs to send an explicit command (i.e. "AUTH TLS") to the FTP server to initiate a secure control connection.
@@ -24,15 +43,6 @@ Source
 
 - SFTP for Secure Data Transfer-Secure FTP over SSL
   - https://www.vandyke.com/products/securefx/sftp.html#:~:text=Both%20SFTP%20and%20FTP%20over%20TLS%20securely%20transfer%20data%E2%80%94usernames,least%20one%20for%20file%20data.
-
-## Firewall...
-
-...
-
-Source
-
-- Network Configuration
-  - https://wiki.filezilla-project.org/Network_Configuration
 
 ## How to set up a STFP Server on Windows
 
