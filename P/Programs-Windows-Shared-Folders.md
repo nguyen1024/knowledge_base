@@ -9,3 +9,8 @@
   - Turn on "SMB 1.0/CIFS File Sharing Support".
   - Turn on "SMB Direct".
   - Restart the computer.
+
+Resources
+
+- How to share files between a Linux and Windows computer
+ - https://www.computerhope.com/issues/ch001636.htm#:~:text=Right%2Dclick%20the%20folder%20and,and%20click%20the%20Share%20button.
