@@ -25,3 +25,14 @@ Source
 
 - How to delete a mapped network drive from Windows (5 ways)
   - https://www.digitalcitizen.life/how-delete-mapped-drives-windows-7/
+
+## How to Find Out What Folders Are Shared
+
+1. File Explorer
+2. Computer Management
+3. Command Line
+
+Source
+
+- 3 ways to view your shared folders in Windows (all versions)
+  - https://www.digitalcitizen.life/how-view-list-all-shared-network-folders/
