@@ -141,3 +141,8 @@ Increase memory?
 
 - Full and Linked Clones
   - https://docs.vmware.com/en/vCenter-Converter-Standalone/6.2/com.vmware.convsa.guide/GUID-93894315-EFCA-4DD8-B583-FA24272DA180.html 
+
+## Host Only Network... With Internet Access
+
+- VMWare - How do i configure Host Only Network with a custom Gateway?
+  - https://stackoverflow.com/questions/68625447/vmware-how-do-i-configure-host-only-network-with-a-custom-gateway
