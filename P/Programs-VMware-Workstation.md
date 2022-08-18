@@ -125,8 +125,19 @@ Source
 
 Increase memory?
 
-## ...
+## Snapshots
 
 - How to take a snapshot in VMware Player
    - https://communities.vmware.com/t5/VMware-Workstation-Player/How-to-take-a-snapshot-in-VMware-Player/td-p/2828612
    - You can't in Player. Only in Pro. 
+
+## ...
+
+> A full clone is an independent copy of a virtual machine that shares nothing with the parent virtual machine after the cloning operation. Ongoing operation of a full clone is separate from the parent virtual machine.
+> ...
+> A linked clone is a copy of a virtual machine that shares virtual disks with the parent virtual machine in an ongoing manner.
+> ...
+> All files available on the source machine at the moment of the snapshot continue to remain available to the linked clone. Ongoing changes to the virtual disk of the parent do not affect the linked clone, and changes to the disk of the linked clone do not affect the source machine.
+
+- Full and Linked Clones
+  - https://docs.vmware.com/en/vCenter-Converter-Standalone/6.2/com.vmware.convsa.guide/GUID-93894315-EFCA-4DD8-B583-FA24272DA180.html 
