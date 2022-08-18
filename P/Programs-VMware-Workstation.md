@@ -123,4 +123,10 @@ Source
 
 ## How to Fix Fuzzy Chrome Extension Menus and Tab Previews on a Second Screen
 
-Increase memory.
+Increase memory?
+
+## ...
+
+- How to take a snapshot in VMware Player
+   - https://communities.vmware.com/t5/VMware-Workstation-Player/How-to-take-a-snapshot-in-VMware-Player/td-p/2828612
+   - You can't in Player. Only in Pro. 
