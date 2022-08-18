@@ -36,3 +36,9 @@ Source
 
 - 3 ways to view your shared folders in Windows (all versions)
   - https://www.digitalcitizen.life/how-view-list-all-shared-network-folders/
+
+## ...
+
+- VMWare VM does not see a Shared Folder
+  - https://superuser.com/questions/1714957/vmware-vm-does-not-see-a-shared-folder
+  - Some notes on Windows and Linux.
