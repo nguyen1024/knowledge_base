@@ -42,3 +42,19 @@ Source
 - VMWare VM does not see a Shared Folder
   - https://superuser.com/questions/1714957/vmware-vm-does-not-see-a-shared-folder
   - Some notes on Windows and Linux.
+
+```
+```
+
+- How to Share a Local Folder with a Remote Host Running on VMWare
+  - https://www.tecmint.com/enable-share-folder-in-vmware-workstation/amp/
+  - Some notes on where the shared folder is in Linux.
+
+```
+```
+
+- 3 Types of Virtual Switches | VMnet0, VMnet8, VMnet1 in VMware 
+  - https://www.ubackup.com/enterprise-backup/vmnet-vmware-jkzbj.amp.html 
+  - VMnet0 - Bridged
+  - VMnet8 - NAT
+  - VMnet1 – Host-only
