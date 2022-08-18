@@ -69,3 +69,8 @@ Now you will find your shared folder mounted at /mnt/hgfs
   - VMnet0 - Bridged
   - VMnet8 - NAT
   - VMnet1 – Host-only
+
+- What is the difference between NAT / Bridged / Host-Only networking?
+  - https://superuser.com/questions/227505/what-is-the-difference-between-nat-bridged-host-only-networking
+  - Has a nice image of a table of who can talk to who.
+  - Notes that virtual machines on the same host only network can talk to each other.
