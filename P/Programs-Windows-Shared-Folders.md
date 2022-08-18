@@ -16,6 +16,9 @@ Resources
 
 - How to share files between a Linux and Windows computer
  - https://www.computerhope.com/issues/ch001636.htm#:~:text=Right%2Dclick%20the%20folder%20and,and%20click%20the%20Share%20button.
+- Fix Cannot Access Network Shares on Windows 10
+  - https://www.technipages.com/cannot-access-network-shares-windows-10 
+  - Something about "LanMan Workstation".
 
 ## How to Delete Mapped Shared Folders
 
