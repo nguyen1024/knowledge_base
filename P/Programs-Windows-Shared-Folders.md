@@ -74,3 +74,29 @@ Now you will find your shared folder mounted at /mnt/hgfs
   - https://superuser.com/questions/227505/what-is-the-difference-between-nat-bridged-host-only-networking
   - Has a nice image of a table of who can talk to who.
   - Notes that virtual machines on the same host only network can talk to each other.
+
+- Cannot See Shared Folders In Windows 10 PC – How To Fix
+  - https://www.alphr.com/cannot-see-shared-folders-windows/
+  - Has tips on Windows Credentials.
+  - Has tips on accessing folders that are not password protected.
+  - 
+
+> If you set up sharing correctly, your PC should see shared folders in Windows 10. If you cannot see them, perform these checks.
+> 
+> Make sure your computers are using the same network and IP version, i.e. IPv4 or IPv6. Most home networks use IPv4 so you’ll most likely want to check that.
+> Make sure Network discovery is enabled on all computers.
+> Make sure File and printer sharing is enabled on all computers.
+> Toggle Turn on password protected sharing to off and retest.
+> Make sure you are logging in using the same account you entered when you added users to Share with.
+> If you use Windows Defender Firewall, open the Firewall app, select Allowed apps and ensure File and Printer Sharing is allowed to pass.
+> 
+> If none of those work, make sure all networking services are running. The following services should all be set to Automatic and be currently running:
+> 
+> DNS Client
+> Function Discovery Provider Host
+> Function Discovery Resource Publication
+> HomeGroup Provider
+> HomeGroup Listener
+> Peer Networking Grouping
+> SSDP Discovery
+>  UPnP Device Host
