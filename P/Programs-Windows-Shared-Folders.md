@@ -42,8 +42,18 @@ Source
 - VMWare VM does not see a Shared Folder
   - https://superuser.com/questions/1714957/vmware-vm-does-not-see-a-shared-folder
   - Some notes on Windows and Linux.
+  - There are also some notes on SMB and SAMBA.
 
 ```
+In Linux terminal write the following command:
+
+1- vmware-hgfsclient *
+
+You should see your shared folder name then write:
+
+2- sudo /usr/bin/vmhgfs-fuse .host:/ /mnt/hgfs -o subtype=vmhgfs-fuse,allow_other
+
+Now you will find your shared folder mounted at /mnt/hgfs
 ```
 
 - How to Share a Local Folder with a Remote Host Running on VMWare
@@ -51,6 +61,7 @@ Source
   - Some notes on where the shared folder is in Linux.
 
 ```
+/mnt/hgfs
 ```
 
 - 3 Types of Virtual Switches | VMnet0, VMnet8, VMnet1 in VMware 
