@@ -146,3 +146,22 @@ Increase memory?
 
 - VMWare - How do i configure Host Only Network with a custom Gateway?
   - https://stackoverflow.com/questions/68625447/vmware-how-do-i-configure-host-only-network-with-a-custom-gateway
+
+## VMware Files
+
+> Log files – Log files are just that- a log of virtual server activity for a single virtual server. ... Log files should be used only when you are having trouble with a virtual machine.
+>
+> VMDK files – VMDK files are the actual virtual hard drive for the virtual guest operation system (virtual machine / VM). You can create either dynamic or fixed virtual disks. With dynamic disks, the disks start small and grow as the disk inside the guest OS grows. With fixed disks, the virtual disk and guest OS disk start out at the same (large) disk. For more information on monolithic vs. split disks see this comparison from sanbarrow.com.
+>
+> VMEM – A VMEM file is a backup of the virtual machine’s paging file. It will only appear if the virtual machine is running, or if it has crashed.
+>
+> VMSN & VMSD files – these files are used for VMware snapshots. A VMSN file is used to store the exact state of the virtual machine when the snapshot was taken. Using this snapshot, you can then restore your machine to the same state as when the snapshot was taken. A VMSD file stores information about snapshots (metadata). You’ll notice that the names of these files match the names of the snapshots.
+>
+> NVRAM files – these files are the BIOS for the virtual machine. The VM must know how many hard drives it has and other common BIOS settings. The NVRAM file is where that BIOS information is stored.
+>
+> VMX files – a VMX file is the primary configuration file for a virtual machine. When you create a new virtual machine and answer questions about the operating system, disk sizes, and networking, those answers are stored in this file. As you can see from the screenshot below, a VMX file is actually a simple text file that can be edited with Notepad.
+
+Source
+
+- VMware File Types Explained: VMDK, VMEM, VMSN, VMSD, VMX & More
+  - https://petri.com/virtual_vmware_files_explained/
