@@ -149,6 +149,8 @@ Increase memory?
 
 ## VMware Files
 
+I don't think that you need to backup VMEM files.
+
 > Log files – Log files are just that- a log of virtual server activity for a single virtual server. ... Log files should be used only when you are having trouble with a virtual machine.
 >
 > VMDK files – VMDK files are the actual virtual hard drive for the virtual guest operation system (virtual machine / VM). You can create either dynamic or fixed virtual disks. With dynamic disks, the disks start small and grow as the disk inside the guest OS grows. With fixed disks, the virtual disk and guest OS disk start out at the same (large) disk. For more information on monolithic vs. split disks see this comparison from sanbarrow.com.
