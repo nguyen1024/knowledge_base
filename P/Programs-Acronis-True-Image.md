@@ -13,3 +13,10 @@
 Source
 
 - Experience
+
+## macOS Time Machine Behaviour
+
+Source
+
+- [Suggested New Feature] Time Machine-style backups
+  - https://forum.acronis.com/forum/acronis-true-image-2016-forum/suggested-new-feature-time-machine-style-backups
