@@ -22,3 +22,8 @@ Source
   - https://forum.acronis.com/forum/acronis-true-image-2016-forum/suggested-new-feature-time-machine-style-backups
 
 ## SFTP
+
+Source
+
+- 1773: Acronis True Image Does Not Support SFTP 
+  - https://kb.acronis.com/content/1773
