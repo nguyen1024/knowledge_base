@@ -27,3 +27,15 @@ Source
 
 - 1773: Acronis True Image Does Not Support SFTP 
   - https://kb.acronis.com/content/1773
+
+## Acronis Downloads Offline Files
+
+- The Acronis knowledge base says to download the lates version because this bug has been fixed.
+- My version is Acronis 2019 18100 which is the same as the latest version available for downloading.
+- I think the problem is Acronis Active Protection.
+- If Dropbox or OneDrive keeps downloading, restart them.
+
+Resources
+
+- 61613: Acronis True Image 2019: Message "db_scan.exe is downloading from OneDrive"
+  - https://kb.acronis.com/content/61613
