@@ -123,7 +123,8 @@ Source
 
 ## How to Fix Fuzzy Chrome Extension Menus and Tab Previews on a Second Screen
 
-Increase memory?
+- Increase memory? No.
+- Start your virtual machine on a monitor that you know works. For example, I disconnected my second screen, started my virtual machine, plugged my second screen in, and then moved my virtual machine to the second screen.
 
 ## Snapshots
 
