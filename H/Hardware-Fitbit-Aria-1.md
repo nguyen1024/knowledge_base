@@ -23,6 +23,7 @@ Set Up
 
 Troubleshoot
 
+- If the scale cannot scan for networks, click "Join Network" and enter your Wi-Fi SSID and password manually.
 - If the scale said that there is an error, repeat the process without power cycle the scale.
 - If the scale is stuck in "Setup Active" mode, repeat the process without power cycling the scale.
 
