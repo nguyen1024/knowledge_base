@@ -6,10 +6,14 @@ Extras > Options > Advanced > Show advanced options > In-product marketing messa
 
 Options > Account > Show in-product marketing messages (version 15.31.5)
 
+If the option is greyed out, then sign out and sign back in.
+
 Source
 
 * Why am I getting ads in paid teamviewer?
   * https://community.teamviewer.com/English/discussion/comment/98469#Comment_98469
+* In-Product marketing Messages greyed out
+  * https://community.teamviewer.com/English/discussion/114981/in-product-marketing-messages-greyed-out
 
 ## ...
 
