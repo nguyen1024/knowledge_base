@@ -1,5 +1,23 @@
 # Hardware - Fitbit Aria 1
 
+## Fitbit Aria 1 vs Aria 2 vs Aria Air 
+
+Bodyfat Percentage
+
+- The "Aria 1" and the "Aria 2" sends an electrical signal to measure bodyfat percentage.
+- The "Aria Air" DOES NOT se send an electrical signal to measure bodyfat percentage.
+
+Setup
+
+- The "Aria 2" might be easier to set up than the "Aria 1" because the "Aria 2" uses Bluetooth.
+
+Source
+
+- How does the Aria 2 measure body fat percentage?
+  - https://community.fitbit.com/t5/Aria-Scales/How-does-the-Aria-2-measure-body-fat-percentage/td-p/2360791
+- Fitbit FB203WT Aria Air Bluetooth Smart Scale, White
+  - https://www.amazon.com.au/Fitbit-FB203BK-Aria-Air-Black/dp/B07VWC629V/ref=sr_1_5?crid=2XS4QH07CY7IQ&keywords=fitbit%2Baria&qid=1662082607&sprefix=fitbit%2Baria%2Caps%2C257&sr=8-5&th=1- 
+
 ## How to Set Up Wi-Fi and User
 
 Prepare 
