@@ -46,3 +46,12 @@ Source
   - https://community.teamviewer.com/English/discussion/2365/tv-id-for-user-session-not-device-id#:~:text=Best%20Answer&text=To%20get%20the%20ID%20of,Hope%20this%20helps!
 - ServerID
   - https://community.teamviewer.com/English/discussion/59652/serverid  
+
+## "Options > Advanced > Close to tray menu" Grayed Out
+
+Because you have "Options > General > Start TeamViewer with Windows" activated.
+
+Source
+
+- Version 9.0.32494 won't let me close main window and keep connections active
+  - https://teamviewerforums.com/index.php?topic=2462.0
