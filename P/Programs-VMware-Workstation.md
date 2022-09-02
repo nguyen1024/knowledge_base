@@ -168,3 +168,16 @@ Source
 
 - VMware File Types Explained: VMDK, VMEM, VMSN, VMSD, VMX & More
   - https://petri.com/virtual_vmware_files_explained/
+
+## Trusted Platform Module
+
+Add the following to your ".vmx" file.
+
+```
+managedvm.autoAddVTPM = "software"
+```
+
+Source
+
+- How to Enable the Trusted Platform Module (TPM) on VMware Player & Install Windows 11 on a VM
+  - https://www.youtube.com/watch?v=DV_p8Jls2GY&ab_channel=OnlineComputerTips
