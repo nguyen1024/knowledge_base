@@ -24,7 +24,7 @@ Prepare
 
 - Write down the following in a text document so that you can copy and paste quickly.
   - A name for your scale. Use only upper and lower case "A" to "Z" to be on the safe side. 
-  - A three character initial for yourself.
+  - A THREE character initial for yourself.
   - Your Fitbit email.
   - Your Fitbit password.
   - Your Wi-Fi SSID.
@@ -44,6 +44,11 @@ Troubleshoot
 - If the scale cannot scan for networks, click "Join Network" and enter your Wi-Fi SSID and password manually.
 - If the scale said that there is an error, repeat the process without power cycle the scale.
 - If the scale is stuck in "Setup Active" mode, repeat the process without power cycling the scale.
+
+Source
+
+- Aria not letting get past the step where I have to put in my initials.
+  - https://community.fitbit.com/t5/Aria-Scales/Aria-not-letting-get-past-the-step-where-I-have-to-put-in-my-initials/td-p/2483261
 
 # Settings
 
