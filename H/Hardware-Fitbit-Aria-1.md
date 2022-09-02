@@ -1,6 +1,6 @@
 # Hardware - Fitbit Aria 1
 
-## ...
+## How to Set Up Wi-Fi and User
 
 Prepare 
 
@@ -15,7 +15,7 @@ Prepare
 Set Up
 
 - Connect your computer to your router.
-- Go to ".https://www.fitbit.com/scale/setup/start".
+- Go to "https://www.fitbit.com/scale/setup/start".
 - Follow the steps provided.
   - The steps are mainly the following. 
     - Take out a battery for ten seconds and then put it back in to power cycle the scale.
@@ -25,3 +25,16 @@ Troubleshoot
 
 - If the scale said that there is an error, repeat the process without power cycle the scale.
 - If the scale is stuck in "Setup Active" mode, repeat the process without power cycling the scale.
+
+# Settings
+
+Go to "https://www.fitbit.com/setting".
+
+## How to Fix Aria Thinking You Are a Guest
+
+> From your app dashboard tap on Account > Aria 2 > Recent Weigh-Ins > the Guest weight > assign it to your icon.
+
+Source
+
+- Aria thinks I'm a guest
+  - https://community.fitbit.com/t5/Aria-Scales/Aria-thinks-I-m-a-guest/td-p/2875143
