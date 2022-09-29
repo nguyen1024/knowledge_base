@@ -144,6 +144,7 @@ Source
 ## ...
 
 - Printers & Scanners > Open Queue > Properties > Advanced > Keep printed documents
+- You can also enable in the Event Viewer for all printers.
 
 Source
 
