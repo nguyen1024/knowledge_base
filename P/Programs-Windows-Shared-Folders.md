@@ -103,3 +103,8 @@ Now you will find your shared folder mounted at /mnt/hgfs
 > Peer Networking Grouping
 > SSDP Discovery
 >  UPnP Device Host
+
+## SMB
+
+How to detect, enable and disable SMBv1, SMBv2, and SMBv3 in Windows
+https://learn.microsoft.com/en-us/windows-server/storage/file-server/troubleshoot/detect-enable-and-disable-smbv1-v2-v3
