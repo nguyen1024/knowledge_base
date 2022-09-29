@@ -32,6 +32,8 @@ Source
 
 * How to View Saved Wi-Fi Passwords
   * https://www.pcmag.com/how-to/how-to-view-saved-wi-fi-passwords#:~:text=Right%2Dclick%20on%20your%20computer's,password%20appear%20in%20plain%20text.
+* Find your Wi-Fi network password in Windows
+  * https://support.microsoft.com/en-us/windows/find-your-wi-fi-network-password-in-windows-2ec74b2e-d9ec-ade1-cc9b-bef1429cb678
 
 ## How to Fix Windows 10 Sign-in Options Not Loading
 
