@@ -162,3 +162,30 @@ Source
 
 - How to Fix Windows 10/11 Time Zone Keeps Changing to Pacific
   - https://bestwindowssoftware.net/windows-time-zone-keeps-changing/ 
+
+## How to Sleep from the Command Line
+
+If you do not have hibernate enabled.
+
+```
+rundll32.exe powrprof.dll,SetSuspendState 0,1,0
+```
+
+If you do have hibernate enabled.
+
+```
+powercfg -h off
+rundll32.exe powrprof.dll,SetSuspendState 0,1,0
+powercfg -h on
+```
+
+Else download [PsShutdown](http://technet.microsoft.com/en-us/sysinternals/bb897541.aspx)
+
+```
+psshutdown.exe -d -t 0 -accepteula
+```
+
+Source
+
+- How to sleep Windows 10 from the command line
+  - https://winaero.com/how-to-sleep-windows-10-from-the-command-line/
