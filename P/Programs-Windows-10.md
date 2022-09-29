@@ -128,3 +128,10 @@ Source
 
 - How to disable Timeline on Windows 10
   - https://pureinfotech.com/disable-timeline-windows-10/
+
+## Guest Accounts
+
+Source
+
+- How to Create a Guest Account in Windows 10
+  - https://www.laptopmag.com/articles/create-guest-account-windows-10
