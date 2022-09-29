@@ -133,7 +133,19 @@ Source
 
 ## Guest Accounts
 
+- Create an account.
+- Assign it to the guest group.
+
 Source
 
 - How to Create a Guest Account in Windows 10
   - https://www.laptopmag.com/articles/create-guest-account-windows-10
+
+## ...
+
+- Printers & Scanners > Open Queue > Properties > Advanced > Keep printed documents
+
+Source
+
+- How to Check Your Printed Document History in Windows 10
+  - https://www.howtogeek.com/445760/how-to-check-your-printed-document-history-in-windows-10/
