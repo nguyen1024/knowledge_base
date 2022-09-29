@@ -150,3 +150,15 @@ Source
 
 - How to Check Your Printed Document History in Windows 10
   - https://www.howtogeek.com/445760/how-to-check-your-printed-document-history-in-windows-10/
+
+## Timezone
+
+- Settings > Privacy > Location > Allow access to location on this device
+- Settings > Privacy > Location > Allow apps to access your location
+- Settings > Privacy > Location > Allow desktop apps to access your location
+- Settings > Date & time > Set the time zone automatically
+
+Source
+
+- How to Fix Windows 10/11 Time Zone Keeps Changing to Pacific
+  - https://bestwindowssoftware.net/windows-time-zone-keeps-changing/ 
