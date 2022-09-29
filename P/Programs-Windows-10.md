@@ -185,7 +185,15 @@ Else download [PsShutdown](http://technet.microsoft.com/en-us/sysinternals/bb897
 psshutdown.exe -d -t 0 -accepteula
 ```
 
+How to hibernate.
+
+```
+shutdown /h
+```
+
 Source
 
+- How to hibernate Windows from command line
+  - https://www.windows-commandline.com/hibernate-windows/
 - How to sleep Windows 10 from the command line
   - https://winaero.com/how-to-sleep-windows-10-from-the-command-line/
