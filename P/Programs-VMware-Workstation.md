@@ -181,3 +181,12 @@ Source
 
 - How to Enable the Trusted Platform Module (TPM) on VMware Player & Install Windows 11 on a VM
   - https://www.youtube.com/watch?v=DV_p8Jls2GY&ab_channel=OnlineComputerTips
+
+## ...
+
+VMwareToolboxCmd.exe disk shrink c:\
+
+Reference
+
+- 
+  - https://superuser.com/questions/1562584/vmware-player-cant-shrink-disk
