@@ -7,6 +7,12 @@
 
 References
 
+- CMake Error: CMake was unable to find a build program corresponding to "MSYS Makefiles". #578
+  - https://github.com/tpaviot/oce/issues/578
+- CMake Error: CMake was unable to find a build program corresponding to "MinGW Makefiles"
+  - https://stackoverflow.com/questions/45150172/cmake-error-cmake-was-unable-to-find-a-build-program-corresponding-to-mingw-ma
+- What is wrong with cmake under mingw
+  - https://stackoverflow.com/questions/55093703/what-is-wrong-with-cmake-under-mingw 
 - cmake MSYS Makefiles generator missing
   - https://stackoverflow.com/questions/37365355/cmake-msys-makefiles-generator-missing
 
