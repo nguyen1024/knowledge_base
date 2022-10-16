@@ -26,3 +26,19 @@ Source
 
 - Propose a new meeting time in Outlook
   - https://support.microsoft.com/en-us/office/propose-a-new-meeting-time-in-outlook-c041b2c8-fc3c-43b1-979d-3b40463ac0a9
+
+## ...
+
+Reference
+
+- How To Move Emails From Certain Domain To Specified Folder In Outlook?
+  - https://techcommunity.microsoft.com/t5/exchange/rule-using-wildcard-or-domain-for-handling-incoming-emails/m-p/128425
+
+## ...
+
+*@domain.com
+
+Reference
+
+- Rule using wildcard (or domain) for handling incoming emails
+  - https://techcommunity.microsoft.com/t5/exchange/rule-using-wildcard-or-domain-for-handling-incoming-emails/m-p/128425 
