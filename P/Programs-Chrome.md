@@ -30,3 +30,12 @@ Settings > Privacy and security > Cookies and other site data > Sites that can n
 ```
 [*.].forbes.com
 ```
+
+## ...
+
+ Settings > Advanced > Privacy and security > Site Settings > PDF documents
+
+References
+
+- How to Enable and Disable the Chrome PDF Viewer
+  - https://www.lifewire.com/how-to-enable-disable-chrome-pdf-viewer-4769436
