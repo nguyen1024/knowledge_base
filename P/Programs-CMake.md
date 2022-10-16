@@ -7,6 +7,8 @@
 
 References
 
+- MinGW sh.exe must NOT be in your path
+  - https://stackoverflow.com/questions/41333215/mingw-sh-exe-must-not-be-in-your-path
 - CMake Error: CMake was unable to find a build program corresponding to "MSYS Makefiles". #578
   - https://github.com/tpaviot/oce/issues/578
 - CMake Error: CMake was unable to find a build program corresponding to "MinGW Makefiles"
