@@ -39,3 +39,7 @@ References
 
 - How to Enable and Disable the Chrome PDF Viewer
   - https://www.lifewire.com/how-to-enable-disable-chrome-pdf-viewer-4769436
+
+## Stop Foxit Opening Downloaded PDFs
+
+Settings > Downloads > Something automatically open with system viewer
