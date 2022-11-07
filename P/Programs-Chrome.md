@@ -43,3 +43,8 @@ References
 ## Stop Foxit Opening Downloaded PDFs
 
 Settings > Downloads > Something automatically open with system viewer
+
+References
+
+- Open PDFs from Chrome directly in Foxit PDF Editor
+  - https://kb.foxit.com/hc/en-us/articles/360050308251-Open-PDFs-from-Chrome-directly-in-Foxit-PDF-Editor
