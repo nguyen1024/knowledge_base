@@ -33,7 +33,18 @@ Change the name of a label
 1.  Scroll down to Labels and select the label you want to change the name of.
 1. Select the three dots icon in the top-right corner.
 1. Select Edit label.
-1. You can now change the name of your label!
+
+## ...
+
+1. Open the project you want to view completed tasks for.
+1. Click the three dots icon in the top-right corner of the project.
+1. Select Show completed tasks.
+
+References
+
+- View completed tasks
+  - https://todoist.com/help/articles/view-completed-tasks
+3. You can now change the name of your label!
 
 References
 
