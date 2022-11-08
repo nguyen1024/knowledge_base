@@ -23,3 +23,12 @@ Source
 
 - Twitter Edit (set up) profile button doesn't give an option to change the name (not username). How do I do it?
   - https://www.quora.com/Twitter-Edit-set-up-profile-button-doesnt-give-an-option-to-change-the-name-not-username-How-do-I-do-it 
+
+## Bookmar
+
+Share > Bookmark
+
+Reference
+
+- Bookmark Tweets to read later
+  - https://help.twitter.com/en/resources/twitter-guide/topics/how-to-join-the-conversation-on-twitter/how-to-use-bookmarks-on-twitter
