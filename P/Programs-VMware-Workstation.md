@@ -190,3 +190,9 @@ Reference
 
 - 
   - https://superuser.com/questions/1562584/vmware-player-cant-shrink-disk
+
+## USB Devices...
+
+To see all host USB devices.
+
+Player > Manage > Virtual Machine Settings > USB Controller > Show all USB input devices
