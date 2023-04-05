@@ -10,6 +10,7 @@
 attrib -p +u * /s
 ```
 
+|    |                                          |
 | -- | ---------------------------------------- |
 | -p | Clears the Pinned attribute.             |
 | +u | Sets the Unpinned attribute.             |
