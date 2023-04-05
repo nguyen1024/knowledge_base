@@ -12,8 +12,8 @@ attrib -p +u * /s
 
 | Switch | Description                              |
 | ------ | ---------------------------------------- |
-| -p     | Clears the Pinned attribute.             |
-| +u     | Sets the Unpinned attribute.             |
+| -p     | Clear the Pinned attribute.              |
+| +u     | Set the Unpinned attribute.              |
 | /s     | Process the files in subfolders as well. |
 
 Source
