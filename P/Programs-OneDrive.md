@@ -10,11 +10,11 @@
 attrib -p +u * /s
 ```
 
-|    |                                          |
-| -- | ---------------------------------------- |
-| -p | Clears the Pinned attribute.             |
-| +u | Sets the Unpinned attribute.             |
-| /s | Process the files in subfolders as well. |
+| Switch | Description                              |
+| ------ | ---------------------------------------- |
+| -p     | Clears the Pinned attribute.             |
+| +u     | Sets the Unpinned attribute.             |
+| /s     | Process the files in subfolders as well. |
 
 Source
 
