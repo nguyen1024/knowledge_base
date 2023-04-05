@@ -2,11 +2,17 @@
 
 ## ... Clear Up Space...
 
-Open Command Prompt, not PowerShell.
+- Open Command Prompt, not PowerShell.
+- Go to the to your OneDrive folder.
+- Enter the following command.
 
 ```
 attrib -p +u * /s
 ```
+
+| -p | Clears the Pinned attribute.             |
+| +u | Sets the Unpinned attribute.             |
+| /s | Process the files in subfolders as well. |
 
 Source
 
