@@ -1,6 +1,6 @@
 # Programs - OneDrive
 
-## ... Clear Up Space...
+## How to Clear Up Space
 
 - Open Command Prompt, not PowerShell.
 - Go to the to your OneDrive folder.
